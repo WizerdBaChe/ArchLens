@@ -1,0 +1,17 @@
+.venv/
+
+node_modules/
+
+dist/
+
+build/
+
+__pycache__/
+
+.idea/
+
+*.pyc
+
+*.zip
+
+.git

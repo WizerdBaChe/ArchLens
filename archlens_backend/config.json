@@ -1,0 +1,21 @@
+{
+    "ignore_patterns": [
+        ".git",
+        "__pycache__",
+        ".DS_Store",
+        ".venv",
+        "venv",
+        "output",
+        "node_modules",
+        ".vite",
+        "dist",
+        "build",
+        "*.dll",
+        "*.so",
+        "*.pyc",
+        "*.map",
+        "*.cmd",
+        "*.ps1",
+        "*.log"
+    ]
+}
